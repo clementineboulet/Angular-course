@@ -1,0 +1,10 @@
+p {
+	font-size: 20px;
+	margin: 0 0 0 10px;
+	text-align: center;
+}
+
+.warning {
+	background-color: #f00;
+	padding: 10px 0;
+}
